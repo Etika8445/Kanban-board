@@ -1,5 +1,5 @@
 # Kanban-board
-Overview
+Overview<br>
 This Kanban Board application is built using ReactJS for the frontend, CSS for styling, and Redux for state management. It allows users to manage tasks efficiently using a visual board that supports the principles of the Kanban methodology.
 
 Features
